@@ -1,8 +1,23 @@
 
-# Computer Vision based Virtual Mouse for hands free computer interaction
+# Real-Time Face Detection For Improved Survellance and Access Control
 
-The proposed project aims to develop a hands-free computer interaction system, specifically a computer vision-based virtual mouse, that can be controlled using head movements. The system is intended to improve accessibility for individuals with limited or no use of their hands, such as those with spinal cord injuries or neuromuscular disorders. The virtual mouse will track the movement of the user's head and convert it into mouse movements on the screen. The project has the potential to enhance user experience in gaming or virtual reality applications where hands-free interaction is desirable. The development of a real-world system based on similar principles brings us one step closer to realising the fictional technology depicted in popular culture. The project requires the development of a robust computer vision algorithm, integration of the virtual mouse system with existing operating systems and software applications, and implementation of a user-friendly interface for configuring and calibrating the system to suit individual user needs. The system has the potential to increase independence and improve the quality of life for individuals with disabilities.
+**Description:** VisionMouse aims to develop a computer vision-based virtual mouse controlled by head movements to improve accessibility for individuals with disabilities. This system tracks head movements and converts them into mouse movements on the screen, enhancing user experience in applications such as gaming and virtual reality.
 
+**Objectives:**
+1. Develop a robust computer vision algorithm for head movement tracking.
+2. Integrate the system with existing operating systems and applications.
+3. Implement a user-friendly interface for configuration and calibration.
+
+**Key Features:**
+- Real-time head movement tracking.
+- Mouse control via head movements.
+- User configuration settings.
+- Cross-platform compatibility.
+- Enhanced accessibility.
+
+**Impact:** VisionMouse can significantly increase independence and improve the quality of life for individuals with disabilities, providing an alternative input method and enabling hands-free interaction with computers.
+
+**Conclusion:** VisionMouse leverages advanced computer vision techniques to create a practical, impactful tool that brings us closer to the fictional technology seen in popular culture, benefiting those in need of alternative input methods.
 
 ## Working Actions
 
@@ -16,18 +31,17 @@ Video Explanation
 
 
 
-## Acknowledgements
 
+# Authors
 
-
-
-## Authors
-
+### TechWarriers
+- Aman Varma
+- Vishnu Rathod
+- Akash Rathod
 
 
 ## Demo
 
-Insert gif or link to demo
 
 
 ## Deployment
@@ -39,17 +53,17 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Vishnu! 👋
+
 
 
 ## Lessons Learned
-It was my first hackathon. The Problem statement was so interesting that i was stuck to the computer screen straight 24 hrs, No Sleep, No distraction, complete focus...
+It was my third hackathon. The Problem statement was so interesting that i was stuck to the computer screen straight 36 hrs, No Sleep, No distraction, complete focus...
 
 Key Learnings
 
     - How the face and other objects are recognized with Mesh Detector
 
-    - We started with 4 members but and at last i was alone left Key learning don't be afraid for errors
+    - We started with 3 members but and at last i was alone left Key learning don't be afraid for errors
 
     - Always create a separate virtual environment (Very Important)
 
