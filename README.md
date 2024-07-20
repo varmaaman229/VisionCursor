@@ -42,6 +42,7 @@ Video Explanation
 
 ## Demo
 
+![Capture](https://github.com/user-attachments/assets/f8d9b0e5-f3ca-40cf-9b86-c825842aad8b)
 
 
 ## Deployment
