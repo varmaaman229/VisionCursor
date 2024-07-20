@@ -1,5 +1,6 @@
 
 # Real-Time Face Detection For Improved Survellance and Access Control
+![Capture](https://github.com/user-attachments/assets/f8d9b0e5-f3ca-40cf-9b86-c825842aad8b)
 
 **Description:** VisionMouse aims to develop a computer vision-based virtual mouse controlled by head movements to improve accessibility for individuals with disabilities. This system tracks head movements and converts them into mouse movements on the screen, enhancing user experience in applications such as gaming and virtual reality.
 
@@ -31,6 +32,14 @@ Video Explanation
 
 
 
+https://github.com/user-attachments/assets/990a1fc6-8ca3-420b-96f0-69d32b1abd6a
+
+
+
+https://github.com/user-attachments/assets/e970b370-25dd-4609-bf93-a82d45315965
+
+
+
 
 # Authors
 
@@ -41,6 +50,8 @@ Video Explanation
 
 
 ## Demo
+
+![Capture](https://github.com/user-attachments/assets/f8d9b0e5-f3ca-40cf-9b86-c825842aad8b)
 
 
 
